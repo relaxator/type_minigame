@@ -1,3 +1,8 @@
+# Type_minigame
+
+A simple speed coding.
+Some words are display on the screen. The user must press the start button to start the game, then type the words in the input.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
